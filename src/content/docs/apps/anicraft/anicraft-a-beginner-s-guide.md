@@ -6,5 +6,5 @@ This is a step-by-step list of short instructions to help you understand the sof
 
 These sections are meant to be read in order:
 
-- [Drawing](drawing)
-- [Animating](animating)
+- [Drawing](/apps/anicraft/drawing/)
+- [Animating](/apps/anicraft/animating/)
