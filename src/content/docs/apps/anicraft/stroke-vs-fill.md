@@ -20,21 +20,21 @@ Even though it looks like the stroke and the fill are part of the same drawing, 
 
 So we can have a stroke with no fill, or a fill with no stroke!
 
-If we want to move the stroke and the fill as one unit that sticks together, we double-click the fill. The stroke is selected along with it. 
+If we want to move the stroke and the fill as one unit that sticks together, we double-click the fill. The stroke is selected along with it.
 
 ![](/assets/uploads/bothSelected.png)
 
-Now we can move the two elements as one unit. 
+Now we can move the two elements as one unit.
 
-But they really are two separate things. We can change the thickness of the stroke, and give it different colours. 
+But they really are two separate things. We can change the thickness of the stroke, and give it different colours.
 
 ![](/assets/uploads/differentOutline.png)
 
-We can scale (shrink) the fill down inside the stroke. 
+We can scale (shrink) the fill down inside the stroke.
 
 ![](/assets/uploads/shrinkFill.png)
 
-Because the stroke and fill are no longer touching, when we double-click the fill, the stroke doesn't get selected. 
+Because the stroke and fill are no longer touching, when we double-click the fill, the stroke doesn't get selected.
 
 ![](/assets/uploads/strokeNotSelected.png)
 

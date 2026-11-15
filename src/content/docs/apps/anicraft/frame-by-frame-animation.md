@@ -3,16 +3,13 @@ title: Frame-by-Frame Animation
 description: Learn how to create frame-by-frame animation.
 ---
 
-Pose-to-pose is one approach to animation. In novel-writing terms, pose-to-pose is like carefully planning your story outline and writing all of your chapter titles, and then filling in the blanks
+Pose-to-pose is one approach to animation. In novel-writing terms, pose-to-pose is like carefully planning your story outline and writing all of your chapter titles, and then filling in the blanks.
 
 _Straight-ahead animation_ is more like stream of consciousness writing: you start with an idea and start writing (drawing), and just see where things take you.  You might have a rough idea of where you're headed, but you let everything evolve organically as you go.
 
-
 AniCraft has a number of tools to help us create frame-by-frame, straight-ahead animation.
 
-
-# Create a Straight-Ahead Animation
-
+## Create a Straight-Ahead Animation
 
 First, draw a frame of your animation on Frame 1. You can use the Brush tool or the Pencil tool, or any other tool that strikes your fancy.
 
@@ -44,7 +41,7 @@ We can improve the animation by adding Frames after Frame 1 and Frame 2 (shortcu
 
 With these held frames added, our animation looks much more visually appealing when we play it.
 
-# Onion-Skinning
+## Onion-Skinning
 
 Classical animation was created by creating a single drawing on each page of a stack of pages, and then flipping between the pages quickly to preview the motion.
 
@@ -59,7 +56,6 @@ Click the Onion Skin button at the top-right of the interface to enable Onion-Sk
 ![](/assets/uploads/onionSkin1.png)
 
 We can click and drag the envelope on the Timeline to specify the range of frames we can see.
-
 
 ![](/assets/uploads/onionSkin2.png)
 

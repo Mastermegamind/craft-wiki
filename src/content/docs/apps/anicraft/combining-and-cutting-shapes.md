@@ -5,9 +5,9 @@ description: Learn how AniCraft uses automatic boolean operations to sculpt shap
 
 "Boolean" is a computer graphics term that refers to shapes or objects combining with, intersecting, or excluding each other.
 
-AniCraft performs automatic boolean operations based on certain rules. 
+AniCraft performs automatic boolean operations based on certain rules.
 
-# **Rule #1: Same colours combine.**
+## Rule #1: Same colours combine.
 
 ![](/assets/uploads/combine1.png)
 
@@ -15,7 +15,7 @@ AniCraft performs automatic boolean operations based on certain rules.
 
 When two fill shapes with the same colour overlap, they combine to form one shape.
 
-# Rule #2: Different colours subtract.
+## Rule #2: Different colours subtract.
 
 ![](/assets/uploads/subtract1.png)
 
@@ -25,7 +25,7 @@ When two fill shapes with the same colour overlap, they combine to form one shap
 
 When a fill shape with one colour overlaps a fill shape with a different colour, it "takes a bite" out of the other shape.
 
-# Rule #3: Strokes cut fills.
+## Rule #3: Strokes cut fills.
 
 ![](/assets/uploads/cutShapes1.png)
 
@@ -37,7 +37,7 @@ A stroke line will carve, or cut, a fill into separate pieces.
 
 The first two rules hold true with strokes: same-coloured strokes combine, while differently-coloured strokes cut each other.
 
-# Protecting Shapes
+## Protecting Shapes
 
 Sometimes you want your artwork to be "protected" so that your shapes don't interfere with each other. There are several different ways to accomplish this:
 

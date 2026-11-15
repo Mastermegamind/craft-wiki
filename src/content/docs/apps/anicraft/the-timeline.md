@@ -15,7 +15,7 @@ The default setting is 24 fps (frames per second). At this rate, AniCraft will p
 
 But we have a problem: there AREN'T any frames on the Timeline to play through yet!
 
-# Adding Frames
+## Adding Frames
 
 These grey frame cells are places where we COULD have frames.
 
@@ -39,9 +39,9 @@ These Frames determine the length of our animation: it's 12 frames long. So at 2
 
 ![](/assets/uploads/roughFPS.png)
 
-# Deleting Frames
+## Deleting Frames
 
-If we decided that we have too many frames, we can click anywhere in that Frame range and press SHIFT + F5 to delete Frames. 
+If we decided that we have too many frames, we can click anywhere in that Frame range and press SHIFT + F5 to delete Frames.
 
 ![](/assets/uploads/deleteFrames1.gif)
 
@@ -49,7 +49,7 @@ We can also click and drag to select a range of Frames, and press SHIFT + F5 to 
 
 ![](/assets/uploads/deleteFrames2.gif)
 
-# Playback
+## Playback
 
 To play our animation, either:
 
@@ -60,7 +60,7 @@ To play our animation, either:
 
 We'll see the red-box-and-vertical-line cycle through the animation on a loop. But we don't see anything actually animating yet, because we haven't given AniCraft anything to animate!
 
-# The Playhead
+## The Playhead
 
 That red-box-and-vertical-line is called the Playhead. It shows us which frame in our project is currently being displayed on the Stage. The number in the box is the current frame number.
 

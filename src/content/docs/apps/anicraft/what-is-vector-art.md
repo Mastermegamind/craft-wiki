@@ -24,11 +24,11 @@ If you select part of a raster image and move it away, it's like taking a pair o
 
 **Vector**
 
-Vector artwork is drawn with math. When you draw a vector circle, the computer isn't remembering pixels: it's remembering the width and height of the circle, its fill colour, and its stroke. 
+Vector artwork is drawn with math. When you draw a vector circle, the computer isn't remembering pixels: it's remembering the width and height of the circle, its fill colour, and its stroke.
 
 ![blue ball zoom level 0](/assets/uploads/ball1.png "blue ball zoom level 0")
 
-You can resize vector artwork without any quality loss. 
+You can resize vector artwork without any quality loss.
 
 ![blue ball zoom level 1](/assets/uploads/ball2.png "blue ball zoom level 1")
 

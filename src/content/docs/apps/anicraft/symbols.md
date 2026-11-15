@@ -15,7 +15,7 @@ The three types of Symbols in AniCraft are
 
 We'll focus on the Graphic Symbol type for now, since it's the simplest.
 
-# Converting Artwork to a Symbol
+## Converting Artwork to a Symbol
 
 To convert your artwork to a symbol, first select it.
 
@@ -39,9 +39,9 @@ Now, when our Symbol overlaps Shapes of the same or different colours, it doesn'
 
 ![](/assets/uploads/noAutoBoolean2.png)
 
-# Creating Instances
+## Creating Instances
 
-You can click and drag multiple copies of your Symbol from the Library to the Stage. 
+You can click and drag multiple copies of your Symbol from the Library to the Stage.
 
 ![](/assets/uploads/library1.png)
 
@@ -53,7 +53,7 @@ Each one of these is called an _Instance_ of our Symbol.
 
 Each Symbol Instance has its own Transform. So we can change the position, rotation, scale, and colour effect of each Symbol separately.
 
-# Modifying a Symbol
+## Modifying a Symbol
 
 ![](/assets/uploads/breadcrumbs.png)
 

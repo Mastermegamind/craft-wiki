@@ -15,9 +15,9 @@ In-betweening is seen as lower-skilled work. Often, in-betweening tasks were [of
 
 Sometimes this approach to animation is called "pose-to-pose."
 
-# Keyframes
+## Keyframes
 
-Computer animation has borrowed these concepts from classical animation. 
+Computer animation has borrowed these concepts from classical animation.
 
 If we have a Symbol Instance on the Stage, AniCraft is remembering a number of different things about it:
 
@@ -32,7 +32,7 @@ On a different Frame on the timeline, we can change one or all of these paramete
 
 We need to specifically tell the computer to remember our changed parameters. We do this by creating a _Keyframe_.
 
-# Creating a Keyframe
+## Creating a Keyframe
 
 With our Symbol instance on the Stage, click on a frame cell in the Timeline. To create a Keyframe, either:
 
@@ -46,7 +46,7 @@ The frame visual on the timeline changes to a filled dot.
 
 _Note:_ This can be very misleading! Any time the Stage has _stuff_ on it, we see this filled dot. But AniCraft can't animate raw artwork that we haven't converted into a Symbol, because it doesn't know anything about that artwork's position/rotation/scale/colour effect. AniCraft doesn't store those values unless 1) the artwork is converted to a Symbol, and 2) we have an Instance of that Symbol on the Stage.
 
-# Adding a Classic Tween
+## Adding a Classic Tween
 
 Let's start with an Instance of our [red box symbol](/apps/anicraft/symbols/) on the Stage on Frame 1.
 
@@ -70,7 +70,7 @@ AniCraft can be our lower-paid, offshored in-between artist.
 
 The software can calculate the differences between the two Keyframes, and then fill in the blanks from pose to pose to create automatic motion or visual changes. This is called _interpolation_.
 
-To get AniCraft to interpolate between our keyframes, we have to select the first keyframe, or any fame in the range in between the two keyframes. Then either:
+To get AniCraft to interpolate between our keyframes, we have to select the first keyframe, or any frame in the range in between the two keyframes. Then either:
 
 - right-click and choose Create Classic Tween
 - select Insert > Create Classic Tween from the menu
@@ -80,7 +80,7 @@ Now, the first Keyframe changes colour, and we see an arrow extend all the way t
 
 ![](/assets/uploads/classicTween1.png)
 
-If we scrub the Timeline by clicking and dragging the Playhead, or if we play our animation by pressing Enter or clicking the Play button, we see the red box Symbol Instance move between the first keyframe position and the next. 
+If we scrub the Timeline by clicking and dragging the Playhead, or if we play our animation by pressing Enter or clicking the Play button, we see the red box Symbol Instance move between the first keyframe position and the next.
 
 ![](/assets/uploads/keyframeSmooth.gif)
 
@@ -88,7 +88,7 @@ Hooray! We've offshored our in-betweening work to AniCraft!
 
 Try experimenting with the Symbol Instance's position, rotation, scale, and colour effect (check the Properties panel) to see the different parameters AniCraft can interpolate between.
 
-# Deleting Keyframes
+## Deleting Keyframes
 
 To delete a Keyframe, select it and press SHIFT + F6.
 
