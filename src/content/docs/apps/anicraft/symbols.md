@@ -33,7 +33,7 @@ AniCraft will ask you to type a name for your Symbol, choose which kind of Symbo
 
 ![](/assets/uploads/nameSymbol.png)
 
-Now, when our Symbol overlaps Shapes of the same or different colours, it doesn't [combine with them or subtract from them](combining-and-cutting-shapes).
+Now, when our Symbol overlaps Shapes of the same or different colours, it doesn't [combine with them or subtract from them](/apps/anicraft/combining-and-cutting-shapes/).
 
 ![](/assets/uploads/noAutoBoolean1.png)
 
@@ -63,4 +63,4 @@ We can double-click a Symbol to go "inside" it. The breadcrumb trail at the top 
 
 If we make changes inside our Symbol, that change happens to all of the other Instances of the Symbol.
 
-Next: [The Timeline](the-timeline)
+Next: [The Timeline](/apps/anicraft/the-timeline/)
