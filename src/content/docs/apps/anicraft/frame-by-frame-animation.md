@@ -18,7 +18,7 @@ First, draw a frame of your animation on Frame 1. You can use the Brush tool or 
 
 ![](/assets/uploads/stuff.png)
 
-The image in Frame 1 changes to a filled dot to indicate that there's _stuff_ on the Stage at that point in time. Let's not confuse this with a [Keyframe](keyframe-animation), because AniCraft doesn't remember position/rotation/scale/colour effect parameters for raw artwork that hasn't been converted to a [Symbol](symbols).
+The image in Frame 1 changes to a filled dot to indicate that there's _stuff_ on the Stage at that point in time. Let's not confuse this with a [Keyframe](/apps/anicraft/keyframe-animation/), because AniCraft doesn't remember position/rotation/scale/colour effect parameters for raw artwork that hasn't been converted to a [Symbol](/apps/anicraft/symbols/).
 
 Click on the empty cell in frame 2 and either:
 
