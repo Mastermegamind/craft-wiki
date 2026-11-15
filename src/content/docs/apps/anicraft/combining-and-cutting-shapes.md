@@ -44,5 +44,6 @@ Sometimes you want your artwork to be "protected" so that your shapes don't inte
 - Drawing Objects
 - Groups
 - Symbols
+- Layers
 
 Next: [Symbols](/apps/anicraft/symbols/)
