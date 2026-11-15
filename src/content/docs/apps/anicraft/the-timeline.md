@@ -19,7 +19,7 @@ But we have a problem: there AREN'T any frames on the Timeline to play through y
 
 These grey frame cells are places where we COULD have frames.
 
-The most important keyboard keys in AniCraft are these four function keys: F5, F6, F7, and F8. We already saw that F8 converts artwork into a [Symbol](symbols).
+The most important keyboard keys in AniCraft are these four function keys: F5, F6, F7, and F8. We already saw that F8 converts artwork into a [Symbol](/apps/anicraft/symbols/).
 
 To add Frames to the timeline, click on one of the empty frame cells and either:
 
@@ -72,4 +72,4 @@ We can click and drag the Playhead to move to a different frame. If we click and
 
 We can step through our animation frame-by-frame by pressing the < or > key.
 
-Next: [Keyframe Animation](keyframe-animation)
+Next: [Keyframe Animation](/apps/anicraft/keyframe-animation/)
