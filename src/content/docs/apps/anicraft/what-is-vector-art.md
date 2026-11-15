@@ -36,4 +36,4 @@ You can resize vector artwork without any quality loss.
 
 In many vector drawing packages, elements can overlap each other without destroying what's underneath. AniCraft _can_ work this way, but by default, the vector Shapes interact with each other in interesting ways.
 
-Next: [Stroke vs. Fill](stroke-vs-fill)
+Next: [Stroke vs. Fill](/apps/anicraft/stroke-vs-fill/)
