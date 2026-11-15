@@ -45,4 +45,4 @@ Sometimes you want your artwork to be "protected" so that your shapes don't inte
 - Groups
 - Symbols
 
-Next: [Symbols](symbols)
+Next: [Symbols](/apps/anicraft/symbols/)
