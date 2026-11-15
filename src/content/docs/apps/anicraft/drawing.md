@@ -6,9 +6,9 @@ sidebar:
   order: 0
 ---
 
-- [What is vector art?](what-is-vector-art)
-- [Stroke vs. Fill](stroke-vs-fill)
-- [Combining and Cutting Shapes](combining-and-cutting-shapes)
-- [Symbols](symbols)
+- [What is vector art?](/apps/anicraft/what-is-vector-art/)
+- [Stroke vs. Fill](/apps/anicraft/stroke-vs-fill/)
+- [Combining and Cutting Shapes](/apps/anicraft/combining-and-cutting-shapes/)
+- [Symbols](/apps/anicraft/symbols/)
 
-Next: [Animating](animating)
+Next: [Animating](/apps/anicraft/animating/)
