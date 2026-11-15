@@ -40,4 +40,4 @@ Because the stroke and fill are no longer touching, when we double-click the fil
 
 It's important to keep in mind that strokes and fills are two separate things, because that will help us understand the amazing possibilities of drawing with vectors in AniCraft.
 
-Next: [Combining and Cutting Shapes](combining-and-cutting-shapes)
+Next: [Combining and Cutting Shapes](/apps/anicraft/combining-and-cutting-shapes/)
