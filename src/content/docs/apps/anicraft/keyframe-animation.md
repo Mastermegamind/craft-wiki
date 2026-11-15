@@ -48,7 +48,7 @@ _Note:_ This can be very misleading! Any time the Stage has _stuff_ on it, we se
 
 # Adding a Classic Tween
 
-Let's start with an Instance of our [red box symbol](symbols) on the Stage on Frame 1.
+Let's start with an Instance of our [red box symbol](/apps/anicraft/symbols/) on the Stage on Frame 1.
 
 ![](/assets/uploads/keyframeAnimation1.png)
 
@@ -92,4 +92,4 @@ Try experimenting with the Symbol Instance's position, rotation, scale, and colo
 
 To delete a Keyframe, select it and press SHIFT + F6.
 
-Next: [Frame-by-frame Animation](frame-by-frame-animation)
+Next: [Frame-by-frame Animation](/apps/anicraft/frame-by-frame-animation/)
